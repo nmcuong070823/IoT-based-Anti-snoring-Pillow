@@ -2,10 +2,10 @@
 Abstract: Snoring is a common phenomenon that not only causes discomfort to others but can also be an indicator of Obstructive Sleep Apnea (OSA) — a sleep-related breathing disorder that reduces sleep quality and may lead to various health issues.
 This project focuses on developing a solution to mitigate the risk of sleep apnea by reducing the frequency of snoring. The proposed system is low-cost, user-friendly, and non-invasive. It utilizes a deep learning algorithm to detect snoring, along with hardware components including the ESP32 microcontroller, INMP441 sound sensor, an air pump, and an inflatable air cushion. The system inflates the pillow to adjust the sleeper’s head position, interrupting snoring and thereby reducing the risk of sleep apnea.
 ## Theoretical basis
-Snoring sound comes from the vibration of the pharyngeal walls when the airflow passes by due to the narrow of the upper airway. If left untreated, it can leads to Obstructive Sleep Apnea, which can causes several health problems and also economy loss.
+Snoring sound comes from the vibration of the pharyngeal walls when the airflow passes by due to the narrow of the upper airway. If left untreated, it can leads to Obstructive Sleep Apnea, which can causes several health problems and also economy loss.  
 ![Capture](https://github.com/user-attachments/assets/15ab5a61-96e1-4909-a845-9be1bc716eda)
 Nowadays, many products with different solutions have made in order to mitigate the problems due to sleep disorders problems including snoring but there's a still plenty of drawbacks such as lack of comfort, no actual urgent solutions or high cost.
-The proposed system uses one of the deep learning algorithms is Convolutional Neural Network (CNN) to improve the accuracy of snoring detection in different sound environments as well as on different individuals. 
+The proposed system uses one of the deep learning algorithms is Convolutional Neural Network (CNN) to improve the accuracy of snoring detection in different sound environments as well as on different individuals.  
 ![Capture2](https://github.com/user-attachments/assets/051f74f8-3f92-4a2b-bedd-5070751fff31)
 The proposed system is based on the solution from Smart Nora
 ![image](https://github.com/user-attachments/assets/826d13e8-9d6b-4424-90d0-e409df105baa)

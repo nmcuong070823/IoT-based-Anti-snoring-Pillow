@@ -22,11 +22,11 @@ The proposed system is based on the solution from Smart Nora
 The proposed system consists of 2 modules: Snoring detector device using I2S microphone and Inflate/Deflate Device using relay to control the air pump and electronics valve according to the designed flowchart mentioned later
 The 2 modules communicates each other using ESP-NOW protocol.
 The Inflate/Deflate Device also uses another ESP32 for connecting to Web Server to visualize real-time data received from UART.<br>
-![Capture4](https://github.com/user-attachments/assets/1073108f-263d-4bf2-8b5c-822fa107dd66)
+![Capture4](https://github.com/user-attachments/assets/1073108f-263d-4bf2-8b5c-822fa107dd66)<br>
 The detailed block diagram of Inflate/Deflate Device<br>
-![Capture6](https://github.com/user-attachments/assets/8f9fed9c-2fa8-4a44-865a-4a9e50721ebd)
+![Capture6](https://github.com/user-attachments/assets/8f9fed9c-2fa8-4a44-865a-4a9e50721ebd)<br>
 The detailed block diagram of Snoring Detector device<br> 
-![Capture5](https://github.com/user-attachments/assets/3d96e16c-d188-444b-873c-3252275ec831)
+![Capture5](https://github.com/user-attachments/assets/3d96e16c-d188-444b-873c-3252275ec831)<br>
 ### System flowchart and Web Server Dashboard design
 Web Server Dashboard design<br>
 ![Capture8](https://github.com/user-attachments/assets/7498e7eb-21fb-4a0c-aae7-08759f525497)
